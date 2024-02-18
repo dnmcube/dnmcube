@@ -1,0 +1,326 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessor/DbAccessor.csproj": {}
+  },
+  "projects": {
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DataBase/DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DataBase/DataBase.csproj",
+        "projectName": "DataBase",
+        "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DataBase/DataBase.csproj",
+        "packagesPath": "/Users/nurlanjaimakhanov/.nuget/packages/",
+        "outputPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DataBase/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurlanjaimakhanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/DbContext.csproj": {
+                "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/DbContext.csproj"
+              },
+              "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Start/Start.csproj": {
+                "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Start/Start.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessor/DbAccessor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessor/DbAccessor.csproj",
+        "projectName": "DbAccessor",
+        "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessor/DbAccessor.csproj",
+        "packagesPath": "/Users/nurlanjaimakhanov/.nuget/packages/",
+        "outputPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessor/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurlanjaimakhanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DataBase/DataBase.csproj": {
+                "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DataBase/DataBase.csproj"
+              },
+              "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessorInterfaces/DbAccessorInterfaces.csproj": {
+                "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessorInterfaces/DbAccessorInterfaces.csproj"
+              },
+              "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/DbContext.csproj": {
+                "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/DbContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessorInterfaces/DbAccessorInterfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessorInterfaces/DbAccessorInterfaces.csproj",
+        "projectName": "DbAccessorInterfaces",
+        "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessorInterfaces/DbAccessorInterfaces.csproj",
+        "packagesPath": "/Users/nurlanjaimakhanov/.nuget/packages/",
+        "outputPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessorInterfaces/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurlanjaimakhanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/DbContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/DbContext.csproj",
+        "projectName": "DbContext",
+        "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/DbContext.csproj",
+        "packagesPath": "/Users/nurlanjaimakhanov/.nuget/packages/",
+        "outputPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurlanjaimakhanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Start/Start.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Start/Start.csproj",
+        "projectName": "Start",
+        "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Start/Start.csproj",
+        "packagesPath": "/Users/nurlanjaimakhanov/.nuget/packages/",
+        "outputPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Start/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurlanjaimakhanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessorInterfaces/DbAccessorInterfaces.csproj": {
+                "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbAccessorInterfaces/DbAccessorInterfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

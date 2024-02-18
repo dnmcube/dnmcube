@@ -1,0 +1,11 @@
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/bin/Debug/net7.0/DbContext.deps.json
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/bin/Debug/net7.0/DbContext.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/bin/Debug/net7.0/DbContext.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/obj/Debug/net7.0/DbContext.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/obj/Debug/net7.0/DbContext.AssemblyInfoInputs.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/obj/Debug/net7.0/DbContext.AssemblyInfo.cs
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/obj/Debug/net7.0/DbContext.csproj.CoreCompileInputs.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/obj/Debug/net7.0/DbContext.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/obj/Debug/net7.0/refint/DbContext.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/obj/Debug/net7.0/DbContext.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DbContext/obj/Debug/net7.0/ref/DbContext.dll

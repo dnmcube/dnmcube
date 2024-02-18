@@ -1,0 +1,12 @@
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/bin/Debug/net7.0/DtoObjects.deps.json
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/bin/Debug/net7.0/DtoObjects.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/bin/Debug/net7.0/DtoObjects.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/obj/Debug/net7.0/DtoObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/obj/Debug/net7.0/DtoObjects.AssemblyInfoInputs.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/obj/Debug/net7.0/DtoObjects.AssemblyInfo.cs
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/obj/Debug/net7.0/DtoObjects.csproj.CoreCompileInputs.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/obj/Debug/net7.0/DtoObjects.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/obj/Debug/net7.0/refint/DtoObjects.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/obj/Debug/net7.0/DtoObjects.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/obj/Debug/net7.0/ref/DtoObjects.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/obj/Debug/net7.0/DtoObjects.csproj.AssemblyReference.cache
