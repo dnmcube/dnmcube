@@ -1,0 +1,11 @@
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/bin/Debug/net7.0/Configurate.deps.json
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/bin/Debug/net7.0/Configurate.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/bin/Debug/net7.0/Configurate.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/obj/Debug/net7.0/Configurate.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/obj/Debug/net7.0/Configurate.AssemblyInfoInputs.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/obj/Debug/net7.0/Configurate.AssemblyInfo.cs
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/obj/Debug/net7.0/Configurate.csproj.CoreCompileInputs.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/obj/Debug/net7.0/Configurate.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/obj/Debug/net7.0/refint/Configurate.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/obj/Debug/net7.0/Configurate.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/obj/Debug/net7.0/ref/Configurate.dll

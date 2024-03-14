@@ -1,0 +1,15 @@
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/bin/Debug/net7.0/DBManagerInterfaces.deps.json
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/bin/Debug/net7.0/DBManagerInterfaces.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/bin/Debug/net7.0/DBManagerInterfaces.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/bin/Debug/net7.0/DtoObjects.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/bin/Debug/net7.0/DtoObjects.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/obj/Debug/net7.0/DBManagerInterfaces.csproj.AssemblyReference.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/obj/Debug/net7.0/DBManagerInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/obj/Debug/net7.0/DBManagerInterfaces.AssemblyInfoInputs.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/obj/Debug/net7.0/DBManagerInterfaces.AssemblyInfo.cs
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/obj/Debug/net7.0/DBManagerInterfaces.csproj.CoreCompileInputs.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/obj/Debug/net7.0/DBManagerInterfaces.csproj.CopyComplete
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/obj/Debug/net7.0/DBManagerInterfaces.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/obj/Debug/net7.0/refint/DBManagerInterfaces.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/obj/Debug/net7.0/DBManagerInterfaces.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DBManagerInterfaces/obj/Debug/net7.0/ref/DBManagerInterfaces.dll

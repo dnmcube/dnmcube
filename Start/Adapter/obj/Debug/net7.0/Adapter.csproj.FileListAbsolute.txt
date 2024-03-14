@@ -1,0 +1,15 @@
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/bin/Debug/net7.0/Adapter.deps.json
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/bin/Debug/net7.0/Adapter.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/bin/Debug/net7.0/Adapter.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/bin/Debug/net7.0/DtoObjects.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/bin/Debug/net7.0/DtoObjects.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/obj/Debug/net7.0/Adapter.csproj.AssemblyReference.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/obj/Debug/net7.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/obj/Debug/net7.0/Adapter.AssemblyInfoInputs.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/obj/Debug/net7.0/Adapter.AssemblyInfo.cs
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/obj/Debug/net7.0/Adapter.csproj.CoreCompileInputs.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/obj/Debug/net7.0/Adapter.csproj.CopyComplete
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/obj/Debug/net7.0/Adapter.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/obj/Debug/net7.0/refint/Adapter.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/obj/Debug/net7.0/Adapter.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/obj/Debug/net7.0/ref/Adapter.dll

@@ -1,0 +1,11 @@
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/bin/Debug/net7.0/Calculator.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/obj/Debug/net7.0/Calculator.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/obj/Debug/net7.0/ref/Calculator.dll

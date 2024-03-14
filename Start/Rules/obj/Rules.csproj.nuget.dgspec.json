@@ -1,0 +1,424 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Rules/Rules.csproj": {}
+  },
+  "projects": {
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/Adapter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/Adapter.csproj",
+        "projectName": "Adapter",
+        "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/Adapter.csproj",
+        "packagesPath": "/Users/nurlanjaimakhanov/.nuget/packages/",
+        "outputPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurlanjaimakhanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/DtoObjects.csproj": {
+                "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/DtoObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/Calculator.csproj",
+        "packagesPath": "/Users/nurlanjaimakhanov/.nuget/packages/",
+        "outputPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurlanjaimakhanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/Configurate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/Configurate.csproj",
+        "projectName": "Configurate",
+        "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/Configurate.csproj",
+        "packagesPath": "/Users/nurlanjaimakhanov/.nuget/packages/",
+        "outputPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurlanjaimakhanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/DtoObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/DtoObjects.csproj",
+        "projectName": "DtoObjects",
+        "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/DtoObjects.csproj",
+        "packagesPath": "/Users/nurlanjaimakhanov/.nuget/packages/",
+        "outputPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurlanjaimakhanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Rules/Rules.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Rules/Rules.csproj",
+        "projectName": "Rules",
+        "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Rules/Rules.csproj",
+        "packagesPath": "/Users/nurlanjaimakhanov/.nuget/packages/",
+        "outputPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Rules/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurlanjaimakhanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Start/Start.csproj": {
+                "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Start/Start.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Start/Start.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Start/Start.csproj",
+        "projectName": "Start",
+        "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Start/Start.csproj",
+        "packagesPath": "/Users/nurlanjaimakhanov/.nuget/packages/",
+        "outputPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Start/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurlanjaimakhanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/Adapter.csproj": {
+                "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/Adapter.csproj"
+              },
+              "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/Calculator.csproj": {
+                "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Calculator/Calculator.csproj"
+              },
+              "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/Configurate.csproj": {
+                "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Configurate/Configurate.csproj"
+              },
+              "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/DtoObjects.csproj": {
+                "projectPath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/DtoObjects/DtoObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "AutoMapper.Collection": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Collection.EntityFramework": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Collection.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.ExpressionMapping": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

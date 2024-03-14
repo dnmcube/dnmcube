@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJUHgsVImbJUl9JWTaZJeA5MncMuApoh4SEHBI2eXVK7yQVIu2lxQ3Fa5+2UASvF1gN2NjU776OimyYJPXRgOw==",
+  "success": true,
+  "projectFilePath": "/Volumes/Data/C_sharp_projects/ApiTestdto/WebApi/Start/Adapter/Adapter.csproj",
+  "expectedPackageFiles": [
+    "/Users/nurlanjaimakhanov/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/Users/nurlanjaimakhanov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/nurlanjaimakhanov/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/nurlanjaimakhanov/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/nurlanjaimakhanov/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
